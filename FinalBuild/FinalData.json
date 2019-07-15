@@ -1,0 +1,9002 @@
+[
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1169,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 67,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 5951,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2096,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "paid",
+    "currbal": 7882,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 4870,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 53,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 9055,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2835,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 53,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 6948,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3059,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 61,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 5234,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1295,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 4308,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1567,
+    "gender": "female",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1199,
+    "gender": "male",
+    "propmag": "car",
+    "age": 60,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1403,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1282,
+    "gender": "female",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2424,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 53,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "no",
+    "currbal": 8072,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 12579,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 44,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3430,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 2134,
+    "gender": "male",
+    "propmag": "car",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 2647,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 2241,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1804,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 2069,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1374,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "no",
+    "currbal": 426,
+    "gender": "male",
+    "propmag": "car",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 409,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 7,
+    "credstat": "paid",
+    "currbal": 2415,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "delayed",
+    "currbal": 6836,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 63,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1913,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4020,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 5866,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1264,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1474,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 45,
+    "credstat": "critical",
+    "currbal": 4746,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 6110,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2100,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1225,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 458,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 2333,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1158,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 6204,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 6187,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 6143,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 58,
+    "fraud": 1
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 1393,
+    "gender": "female",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2299,
+    "gender": "male",
+    "propmag": "car",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1352,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 7228,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2073,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2333,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "delayed",
+    "currbal": 5965,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1262,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3378,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 2225,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 57,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "all",
+    "currbal": 783,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 6468,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 52,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 9566,
+    "gender": "female",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1961,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 6229,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1391,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1537,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "no",
+    "currbal": 1953,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 61,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 14421,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3181,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "paid",
+    "currbal": 5190,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2171,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1007,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 1819,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2394,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 8133,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 7,
+    "credstat": "critical",
+    "currbal": 730,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 8,
+    "credstat": "critical",
+    "currbal": 1164,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "critical",
+    "currbal": 5954,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 1977,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1526,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 66,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "paid",
+    "currbal": 3965,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 11,
+    "credstat": "delayed",
+    "currbal": 4771,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 54,
+    "credstat": "no",
+    "currbal": 9436,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 3832,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 5943,
+    "gender": "female",
+    "propmag": "car",
+    "age": 44,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1213,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1568,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1755,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 58,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 2315,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1412,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1295,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 12612,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 47,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2249,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 1108,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 618,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 56,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1409,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 797,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 3617,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1318,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 54,
+    "credstat": "no",
+    "currbal": 15945,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 58,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2012,
+    "gender": "female",
+    "propmag": "car",
+    "age": 61,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2622,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 2337,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 20,
+    "credstat": "delayed",
+    "currbal": 7057,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1469,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2323,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 932,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1919,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2445,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 11938,
+    "gender": "male",
+    "propmag": "car",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "all",
+    "currbal": 6458,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 6078,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 7721,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 14,
+    "credstat": "paid",
+    "currbal": 1410,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 1449,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 392,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 6260,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 7855,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1680,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 3578,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "paid",
+    "currbal": 7174,
+    "gender": "female",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 2132,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 33,
+    "credstat": "critical",
+    "currbal": 4281,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2366,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 1835,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 3868,
+    "gender": "female",
+    "propmag": "car",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1768,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 781,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1924,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2121,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 701,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 639,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1860,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3499,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 8487,
+    "gender": "female",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 6887,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2708,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1984,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 10144,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1240,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "delayed",
+    "currbal": 8613,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 766,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 66,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 2728,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1881,
+    "gender": "female",
+    "propmag": "car",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 709,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 4795,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "paid",
+    "currbal": 3416,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2462,
+    "gender": "male",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 2288,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "all",
+    "currbal": 3566,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 860,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 682,
+    "gender": "female",
+    "propmag": "car",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 5371,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1582,
+    "gender": "male",
+    "propmag": "car",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1346,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1924,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 5848,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 7758,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 6967,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1282,
+    "gender": "female",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1288,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 339,
+    "gender": "male",
+    "propmag": "car",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3512,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1898,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2872,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1055,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1262,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 7308,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 70,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 909,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 2978,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1131,
+    "gender": "female",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 11,
+    "credstat": "paid",
+    "currbal": 1577,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3972,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1935,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "no",
+    "currbal": 950,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 763,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2064,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 8,
+    "credstat": "paid",
+    "currbal": 1414,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "delayed",
+    "currbal": 3414,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "all",
+    "currbal": 7485,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 53,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2577,
+    "gender": "male",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 338,
+    "gender": "male",
+    "propmag": "car",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1963,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 571,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 65,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 9572,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 4455,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "all",
+    "currbal": 1647,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 3777,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 884,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1360,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "all",
+    "currbal": 5129,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 74,
+    "fraud": 1
+  },
+  {
+    "creduse": 16,
+    "credstat": "critical",
+    "currbal": 1175,
+    "gender": "male",
+    "propmag": "car",
+    "age": 68,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 674,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 20,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "no",
+    "currbal": 3244,
+    "gender": "female",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4591,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 54,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 3844,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 27,
+    "credstat": "paid",
+    "currbal": 3915,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 2108,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 45,
+    "credstat": "paid",
+    "currbal": 3031,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 21,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1501,
+    "gender": "female",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1382,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 951,
+    "gender": "female",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2760,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 4297,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 936,
+    "gender": "male",
+    "propmag": "car",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1168,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "delayed",
+    "currbal": 5117,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 902,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 21,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1495,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 10623,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1935,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1424,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 6568,
+    "gender": "male",
+    "propmag": "car",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1413,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 55,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 3074,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3835,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "no",
+    "currbal": 5293,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 50,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "delayed",
+    "currbal": 1908,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 66,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 3342,
+    "gender": "male",
+    "propmag": "car",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 932,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "no",
+    "currbal": 3104,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3913,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3021,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1364,
+    "gender": "female",
+    "propmag": "car",
+    "age": 64,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 625,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1200,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 707,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2978,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 4657,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "no",
+    "currbal": 2613,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 10961,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 7865,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 53,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1478,
+    "gender": "male",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3149,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 4210,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2507,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2141,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 866,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 4,
+    "credstat": "critical",
+    "currbal": 1544,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1823,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 14555,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2767,
+    "gender": "male",
+    "propmag": "car",
+    "age": 61,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1291,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 2522,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 915,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1595,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 4605,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1185,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 3447,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1258,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 717,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "no",
+    "currbal": 1204,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1925,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 433,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 666,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2251,
+    "gender": "female",
+    "propmag": "car",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 2150,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 4151,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2030,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "delayed",
+    "currbal": 7418,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2684,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 2149,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3812,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 1154,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1657,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1603,
+    "gender": "female",
+    "propmag": "car",
+    "age": 55,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 5302,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2748,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 1231,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 802,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 6304,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1533,
+    "gender": "female",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 14,
+    "credstat": "paid",
+    "currbal": 8978,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 999,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2662,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1402,
+    "gender": "female",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "all",
+    "currbal": 12169,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 3060,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 11998,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2697,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 2404,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1262,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 4611,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1901,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 3368,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1574,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "all",
+    "currbal": 1445,
+    "gender": "male",
+    "propmag": "car",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1520,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 3878,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 47,
+    "credstat": "paid",
+    "currbal": 10722,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 4788,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "delayed",
+    "currbal": 7582,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1092,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 1024,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 48,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1076,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 9398,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 6419,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "critical",
+    "currbal": 4796,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 56,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 7629,
+    "gender": "male",
+    "propmag": "car",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 9960,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 4675,
+    "gender": "female",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1287,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2515,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 2745,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 672,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "no",
+    "currbal": 3804,
+    "gender": "female",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1344,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 1038,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 10127,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 44,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1543,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 4811,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 727,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 8,
+    "credstat": "paid",
+    "currbal": 1237,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 276,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 5381,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 5511,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3749,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 685,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 4,
+    "credstat": "paid",
+    "currbal": 1494,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "all",
+    "currbal": 2746,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 708,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4351,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 701,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "delayed",
+    "currbal": 3643,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 4249,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1938,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2910,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2659,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1028,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 8,
+    "credstat": "critical",
+    "currbal": 3398,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 5801,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1525,
+    "gender": "female",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 4473,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1068,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 6615,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 75,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1864,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 7408,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 11590,
+    "gender": "female",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "no",
+    "currbal": 4110,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 3384,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 1
+  },
+  {
+    "creduse": 13,
+    "credstat": "paid",
+    "currbal": 2101,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1275,
+    "gender": "female",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4169,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1521,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 5743,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 3599,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3213,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 4439,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 3949,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1459,
+    "gender": "female",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 13,
+    "credstat": "critical",
+    "currbal": 882,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3758,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 1743,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1136,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1236,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 959,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3229,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 6199,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 727,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1246,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2331,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 4463,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 776,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 2406,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1239,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 61,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3399,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "delayed",
+    "currbal": 2247,
+    "gender": "female",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1766,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2473,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1542,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3850,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3650,
+    "gender": "female",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3446,
+    "gender": "male",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3001,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3079,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 6070,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 2146,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "critical",
+    "currbal": 13756,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "all",
+    "currbal": 14782,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 60,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "all",
+    "currbal": 7685,
+    "gender": "female",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 2320,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 7,
+    "credstat": "delayed",
+    "currbal": 846,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 14318,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 57,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 362,
+    "gender": "female",
+    "propmag": "car",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 20,
+    "credstat": "paid",
+    "currbal": 2212,
+    "gender": "male",
+    "propmag": "car",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 12976,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 1
+  },
+  {
+    "creduse": 22,
+    "credstat": "paid",
+    "currbal": 1283,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1330,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "delayed",
+    "currbal": 4272,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 2238,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1126,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 7374,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 2326,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1449,
+    "gender": "female",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1820,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 983,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 19,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3249,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1957,
+    "gender": "female",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 2406,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 39,
+    "credstat": "delayed",
+    "currbal": 11760,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2578,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 55,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 2348,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1223,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 46,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1516,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1473,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1887,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 8648,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 14,
+    "credstat": "delayed",
+    "currbal": 802,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 2899,
+    "gender": "male",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2039,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2197,
+    "gender": "male",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1053,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3235,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 939,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1967,
+    "gender": "female",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 33,
+    "credstat": "critical",
+    "currbal": 7253,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2292,
+    "gender": "male",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1597,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1381,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 5842,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2579,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 8471,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2782,
+    "gender": "female",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1042,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3186,
+    "gender": "female",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2028,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 958,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "delayed",
+    "currbal": 1591,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2762,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2779,
+    "gender": "male",
+    "propmag": "car",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 28,
+    "credstat": "critical",
+    "currbal": 2743,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1149,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1313,
+    "gender": "male",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1190,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 55,
+    "fraud": 1
+  },
+  {
+    "creduse": 5,
+    "credstat": "paid",
+    "currbal": 3448,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 74,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 11328,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1872,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2058,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2136,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1484,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 660,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1287,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "critical",
+    "currbal": 3394,
+    "gender": "male",
+    "propmag": "car",
+    "age": 65,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 609,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1884,
+    "gender": "male",
+    "propmag": "car",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1620,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 20,
+    "credstat": "delayed",
+    "currbal": 2629,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 719,
+    "gender": "male",
+    "propmag": "car",
+    "age": 41,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 5096,
+    "gender": "female",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1244,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 1842,
+    "gender": "female",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 7,
+    "credstat": "paid",
+    "currbal": 2576,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1424,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 55,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "delayed",
+    "currbal": 1512,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 61,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 11054,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 518,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 2759,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2670,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4817,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2679,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 3905,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3386,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 343,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 4594,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3620,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1721,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3017,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 754,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1950,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2924,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 1659,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "delayed",
+    "currbal": 7238,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 33,
+    "credstat": "delayed",
+    "currbal": 2764,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 4679,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3092,
+    "gender": "male",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 448,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 654,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1238,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1245,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "no",
+    "currbal": 3114,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 39,
+    "credstat": "paid",
+    "currbal": 2569,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 5152,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1037,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1478,
+    "gender": "male",
+    "propmag": "car",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3573,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1201,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 3622,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "delayed",
+    "currbal": 960,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1163,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 1209,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3077,
+    "gender": "male",
+    "propmag": "car",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3757,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 62,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1418,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 3518,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1934,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "no",
+    "currbal": 8318,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1237,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 368,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2122,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 39,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2996,
+    "gender": "male",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 9034,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1585,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1301,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1323,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3123,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 5493,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1126,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1216,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1207,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1309,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 2360,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "all",
+    "currbal": 6850,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1413,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 39,
+    "credstat": "paid",
+    "currbal": 8588,
+    "gender": "male",
+    "propmag": "car",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 759,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 4686,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2687,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "delayed",
+    "currbal": 585,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2255,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 609,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1361,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 7127,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1203,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 700,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 5507,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3190,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 7119,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 53,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3488,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1113,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 26,
+    "credstat": "paid",
+    "currbal": 7966,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1532,
+    "gender": "female",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 4,
+    "credstat": "critical",
+    "currbal": 1503,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2302,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 662,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2273,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2631,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "delayed",
+    "currbal": 1503,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1311,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3105,
+    "gender": "male",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 2319,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1374,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 75,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3612,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 7763,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3049,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1534,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2032,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 60,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 6350,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2864,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1255,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 61,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 1333,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 43,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2022,
+    "gender": "female",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1552,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 626,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 8858,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 996,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "all",
+    "currbal": 1750,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 6999,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1995,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1199,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 67,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1331,
+    "gender": "male",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "no",
+    "currbal": 2278,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "no",
+    "currbal": 5003,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 3552,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1928,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2964,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 1546,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 683,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 12389,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 4712,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 1553,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1372,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2578,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 3979,
+    "gender": "male",
+    "propmag": "car",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 6758,
+    "gender": "female",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3234,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 5954,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 5433,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 806,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1082,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 2788,
+    "gender": "female",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2930,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1927,
+    "gender": "female",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 2820,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 937,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1056,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3124,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1388,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2384,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2133,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2039,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 20,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 2799,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1289,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1217,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 47,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2246,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 60,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 385,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 58,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 1965,
+    "gender": "female",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 1572,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2718,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 20,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 1358,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "all",
+    "currbal": 931,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1442,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "no",
+    "currbal": 4241,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 2775,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 3863,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 7,
+    "credstat": "paid",
+    "currbal": 2329,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 918,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 1837,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3349,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1275,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 2828,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 4526,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 74,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2671,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 50,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2051,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1300,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 741,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1240,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 48,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 3357,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 3632,
+    "gender": "female",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 1808,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 12204,
+    "gender": "male",
+    "propmag": "car",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "delayed",
+    "currbal": 9157,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 3676,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 3441,
+    "gender": "female",
+    "propmag": "car",
+    "age": 21,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 640,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 3652,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1530,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 3914,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 38,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1858,
+    "gender": "female",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2600,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 65,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1979,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 2116,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "all",
+    "currbal": 1437,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 42,
+    "credstat": "critical",
+    "currbal": 4042,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 3832,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 64,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3660,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "all",
+    "currbal": 1553,
+    "gender": "male",
+    "propmag": "car",
+    "age": 44,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1444,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1980,
+    "gender": "female",
+    "propmag": "car",
+    "age": 19,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1355,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1393,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1376,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "delayed",
+    "currbal": 15653,
+    "gender": "male",
+    "propmag": "car",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1493,
+    "gender": "female",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "delayed",
+    "currbal": 4370,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 750,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1308,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 4623,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1851,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1880,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 7980,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "no",
+    "currbal": 4583,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1386,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 947,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 684,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 7476,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1922,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2303,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 45,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 8086,
+    "gender": "male",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2346,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 14,
+    "credstat": "paid",
+    "currbal": 3973,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 888,
+    "gender": "male",
+    "propmag": "car",
+    "age": 41,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 10222,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "no",
+    "currbal": 4221,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 6361,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1297,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 900,
+    "gender": "male",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2241,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "delayed",
+    "currbal": 1050,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1047,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 6314,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "all",
+    "currbal": 3496,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "all",
+    "currbal": 3609,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 4843,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 3017,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 4139,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 5742,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 10366,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 2080,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "delayed",
+    "currbal": 2580,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 4530,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 5150,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 72,
+    "credstat": "paid",
+    "currbal": 5595,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2384,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 64,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1453,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1538,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 56,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2279,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "delayed",
+    "currbal": 1478,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 5103,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 9857,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 6527,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "critical",
+    "currbal": 1347,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 2862,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2753,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3651,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 975,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2631,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2896,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 4716,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2284,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1236,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1103,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 926,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1800,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1905,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1123,
+    "gender": "female",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 6331,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 46,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1377,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "delayed",
+    "currbal": 2503,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "paid",
+    "currbal": 2528,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 5324,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 6560,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 2969,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1206,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2118,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 629,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "all",
+    "currbal": 1198,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2476,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1138,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 14027,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 7596,
+    "gender": "male",
+    "propmag": "car",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 3077,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1505,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 3148,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 20,
+    "credstat": "no",
+    "currbal": 6148,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "no",
+    "currbal": 1337,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "all",
+    "currbal": 433,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1228,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 790,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 66,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "paid",
+    "currbal": 2570,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 21,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 250,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1316,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1882,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "all",
+    "currbal": 6416,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 59,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1275,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 6403,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1987,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 21,
+    "fraud": 1
+  },
+  {
+    "creduse": 8,
+    "credstat": "paid",
+    "currbal": 760,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2603,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 4,
+    "credstat": "critical",
+    "currbal": 3380,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "all",
+    "currbal": 3990,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 11560,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 4380,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 6761,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "no",
+    "currbal": 4280,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 2325,
+    "gender": "male",
+    "propmag": "car",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "all",
+    "currbal": 1048,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 3160,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 2483,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 39,
+    "credstat": "critical",
+    "currbal": 14179,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 13,
+    "credstat": "critical",
+    "currbal": 1797,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2511,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1274,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 5248,
+    "gender": "male",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3029,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 428,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 976,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 841,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 5771,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "delayed",
+    "currbal": 1555,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 55,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1285,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1299,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 74,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1271,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1393,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 691,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 5045,
+    "gender": "female",
+    "propmag": "car",
+    "age": 59,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 2124,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2214,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 12680,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2463,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1155,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 3108,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 2901,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3617,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1655,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2812,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 8065,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 3275,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2223,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 52,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1480,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 66,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1371,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 3535,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3509,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 5711,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3872,
+    "gender": "female",
+    "propmag": "car",
+    "age": 67,
+    "fraud": 0
+  },
+  {
+    "creduse": 39,
+    "credstat": "critical",
+    "currbal": 4933,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1940,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 60,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 1410,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 836,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 20,
+    "credstat": "paid",
+    "currbal": 6468,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 60,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1941,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 22,
+    "credstat": "paid",
+    "currbal": 2675,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "critical",
+    "currbal": 2751,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "delayed",
+    "currbal": 6224,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 50,
+    "fraud": 1
+  },
+  {
+    "creduse": 40,
+    "credstat": "critical",
+    "currbal": 5998,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 1188,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 6313,
+    "gender": "male",
+    "propmag": "car",
+    "age": 41,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1221,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2892,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 51,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3062,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 2301,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 7511,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 51,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1258,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 717,
+    "gender": "male",
+    "propmag": "car",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1549,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1597,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1795,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 20,
+    "credstat": "critical",
+    "currbal": 4272,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 976,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 7472,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 9271,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 590,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 930,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 65,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "all",
+    "currbal": 9283,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 55,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "no",
+    "currbal": 1778,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 8,
+    "credstat": "paid",
+    "currbal": 907,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 484,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 9629,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 3051,
+    "gender": "male",
+    "propmag": "car",
+    "age": 54,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 3931,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 46,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 7432,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 1338,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 62,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1554,
+    "gender": "female",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 15857,
+    "gender": "male",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1345,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1101,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3016,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 2712,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 41,
+    "fraud": 1
+  },
+  {
+    "creduse": 8,
+    "credstat": "critical",
+    "currbal": 731,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3780,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "critical",
+    "currbal": 1602,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3966,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "no",
+    "currbal": 4165,
+    "gender": "male",
+    "propmag": "car",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 8335,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 47,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "delayed",
+    "currbal": 6681,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2375,
+    "gender": "male",
+    "propmag": "car",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1216,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 45,
+    "credstat": "no",
+    "currbal": 11816,
+    "gender": "male",
+    "propmag": "car",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 5084,
+    "gender": "female",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2327,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "no",
+    "currbal": 1082,
+    "gender": "male",
+    "propmag": "car",
+    "age": 48,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 886,
+    "gender": "female",
+    "propmag": "car",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 4,
+    "credstat": "paid",
+    "currbal": 601,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2957,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 63,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2611,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 5179,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "delayed",
+    "currbal": 2993,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1943,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 1559,
+    "gender": "male",
+    "propmag": "car",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 3422,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 3976,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 6761,
+    "gender": "male",
+    "propmag": "car",
+    "age": 68,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1249,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1364,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 59,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 709,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 57,
+    "fraud": 1
+  },
+  {
+    "creduse": 20,
+    "credstat": "critical",
+    "currbal": 2235,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 4042,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1471,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "all",
+    "currbal": 1442,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 10875,
+    "gender": "male",
+    "propmag": "car",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1474,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 894,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 3343,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3959,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 3577,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 5804,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 2169,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2439,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 27,
+    "credstat": "critical",
+    "currbal": 4526,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 2210,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2221,
+    "gender": "female",
+    "propmag": "car",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 2389,
+    "gender": "female",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3331,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 7409,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 652,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 7678,
+    "gender": "female",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1343,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1382,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 874,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3590,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 1322,
+    "gender": "female",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "all",
+    "currbal": 1940,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3595,
+    "gender": "male",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1422,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 27,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 6742,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 7814,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 9277,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 2181,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1098,
+    "gender": "female",
+    "propmag": "car",
+    "age": 65,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4057,
+    "gender": "male",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 795,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 53,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2825,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 15672,
+    "gender": "male",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 6614,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 28,
+    "credstat": "all",
+    "currbal": 7824,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "critical",
+    "currbal": 2442,
+    "gender": "male",
+    "propmag": "car",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1829,
+    "gender": "male",
+    "propmag": "car",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 2171,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 5800,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1169,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 8947,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2606,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 1592,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 35,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 2186,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 4153,
+    "gender": "male",
+    "propmag": "car",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 16,
+    "credstat": "critical",
+    "currbal": 2625,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 1
+  },
+  {
+    "creduse": 20,
+    "credstat": "critical",
+    "currbal": 3485,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 44,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "critical",
+    "currbal": 10477,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1386,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1278,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 36,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1107,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 20,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 3763,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3711,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "delayed",
+    "currbal": 3594,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 3195,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 4454,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 4736,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 2991,
+    "gender": "female",
+    "propmag": "car",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "paid",
+    "currbal": 2142,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 3161,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 18424,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 32,
+    "fraud": 1
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 2848,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 32,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 14896,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 68,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2359,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3345,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1817,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "delayed",
+    "currbal": 12749,
+    "gender": "male",
+    "propmag": "car",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1366,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2002,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 6872,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 55,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "all",
+    "currbal": 697,
+    "gender": "male",
+    "propmag": "car",
+    "age": 46,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 1049,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 21,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 10297,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 39,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 1867,
+    "gender": "male",
+    "propmag": "car",
+    "age": 58,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "delayed",
+    "currbal": 1344,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1747,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 24,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 1670,
+    "gender": "female",
+    "propmag": "car",
+    "age": 22,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1224,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 522,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1498,
+    "gender": "female",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "delayed",
+    "currbal": 1919,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 9,
+    "credstat": "paid",
+    "currbal": 745,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 2063,
+    "gender": "male",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 6288,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 42,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 6842,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 3527,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 45,
+    "fraud": 0
+  },
+  {
+    "creduse": 10,
+    "credstat": "paid",
+    "currbal": 1546,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 929,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 4,
+    "credstat": "critical",
+    "currbal": 1455,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1845,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 46,
+    "fraud": 0
+  },
+  {
+    "creduse": 48,
+    "credstat": "no",
+    "currbal": 8358,
+    "gender": "female",
+    "propmag": "car",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 3349,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2859,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1533,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3621,
+    "gender": "male",
+    "propmag": "car",
+    "age": 31,
+    "fraud": 1
+  },
+  {
+    "creduse": 18,
+    "credstat": "critical",
+    "currbal": 3590,
+    "gender": "male",
+    "propmag": "car",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "delayed",
+    "currbal": 2145,
+    "gender": "male",
+    "propmag": "car",
+    "age": 24,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 4113,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 1
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 10974,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1893,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1231,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 3656,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 0
+  },
+  {
+    "creduse": 9,
+    "credstat": "critical",
+    "currbal": 1154,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 28,
+    "credstat": "paid",
+    "currbal": 4006,
+    "gender": "male",
+    "propmag": "car",
+    "age": 45,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 3069,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "critical",
+    "currbal": 1740,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 21,
+    "credstat": "delayed",
+    "currbal": 2353,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 47,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3556,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 2397,
+    "gender": "male",
+    "propmag": "car",
+    "age": 35,
+    "fraud": 1
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 454,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 1715,
+    "gender": "female",
+    "propmag": "car",
+    "age": 26,
+    "fraud": 0
+  },
+  {
+    "creduse": 27,
+    "credstat": "critical",
+    "currbal": 2520,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 3568,
+    "gender": "female",
+    "propmag": "car",
+    "age": 54,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "paid",
+    "currbal": 7166,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 11,
+    "credstat": "critical",
+    "currbal": 3939,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "paid",
+    "currbal": 1514,
+    "gender": "male",
+    "propmag": "real estate",
+    "age": 22,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 7393,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 43,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "all",
+    "currbal": 1193,
+    "gender": "female",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 1
+  },
+  {
+    "creduse": 60,
+    "credstat": "paid",
+    "currbal": 7297,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 36,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 2831,
+    "gender": "female",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 1258,
+    "gender": "female",
+    "propmag": "car",
+    "age": 57,
+    "fraud": 0
+  },
+  {
+    "creduse": 6,
+    "credstat": "paid",
+    "currbal": 753,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 64,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "delayed",
+    "currbal": 2427,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 42,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "delayed",
+    "currbal": 2538,
+    "gender": "male",
+    "propmag": "car",
+    "age": 47,
+    "fraud": 1
+  },
+  {
+    "creduse": 15,
+    "credstat": "all",
+    "currbal": 1264,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 1
+  },
+  {
+    "creduse": 30,
+    "credstat": "critical",
+    "currbal": 8386,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 49,
+    "fraud": 1
+  },
+  {
+    "creduse": 48,
+    "credstat": "paid",
+    "currbal": 4844,
+    "gender": "male",
+    "propmag": "car",
+    "age": 33,
+    "fraud": 1
+  },
+  {
+    "creduse": 21,
+    "credstat": "paid",
+    "currbal": 2923,
+    "gender": "female",
+    "propmag": "car",
+    "age": 28,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 8229,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 26,
+    "fraud": 1
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 2028,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "critical",
+    "currbal": 1433,
+    "gender": "female",
+    "propmag": "life insurance",
+    "age": 25,
+    "fraud": 0
+  },
+  {
+    "creduse": 42,
+    "credstat": "no",
+    "currbal": 6289,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 33,
+    "fraud": 0
+  },
+  {
+    "creduse": 13,
+    "credstat": "paid",
+    "currbal": 1409,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 64,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "paid",
+    "currbal": 6579,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 29,
+    "fraud": 0
+  },
+  {
+    "creduse": 24,
+    "credstat": "critical",
+    "currbal": 1743,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 48,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "critical",
+    "currbal": 3565,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 37,
+    "fraud": 0
+  },
+  {
+    "creduse": 15,
+    "credstat": "all",
+    "currbal": 1569,
+    "gender": "male",
+    "propmag": "car",
+    "age": 34,
+    "fraud": 0
+  },
+  {
+    "creduse": 18,
+    "credstat": "paid",
+    "currbal": 1936,
+    "gender": "male",
+    "propmag": "car",
+    "age": 23,
+    "fraud": 0
+  },
+  {
+    "creduse": 36,
+    "credstat": "paid",
+    "currbal": 3959,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 30,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 2390,
+    "gender": "male",
+    "propmag": "car",
+    "age": 50,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 1736,
+    "gender": "female",
+    "propmag": "real estate",
+    "age": 31,
+    "fraud": 0
+  },
+  {
+    "creduse": 30,
+    "credstat": "paid",
+    "currbal": 3857,
+    "gender": "male",
+    "propmag": "life insurance",
+    "age": 40,
+    "fraud": 0
+  },
+  {
+    "creduse": 12,
+    "credstat": "paid",
+    "currbal": 804,
+    "gender": "male",
+    "propmag": "car",
+    "age": 38,
+    "fraud": 0
+  },
+  {
+    "creduse": 45,
+    "credstat": "paid",
+    "currbal": 1845,
+    "gender": "male",
+    "propmag": "no known property",
+    "age": 23,
+    "fraud": 1
+  },
+  {
+    "creduse": 45,
+    "credstat": "critical",
+    "currbal": 4576,
+    "gender": "male",
+    "propmag": "car",
+    "age": 27,
+    "fraud": 0
+  }
+]

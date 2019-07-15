@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<body>
+  <head>
+  <meta charset="utf-8">
+  <style>
+  .bar { fill: #EF3935; }
+  </style>
+  <meta name="description" content="">
+  <title>Customer Data View</title>
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  </head>
+  <nav class="navbar navbar-default">
+      <div class="container">
+          <a class="navbar-brand" href="#"><img id="logo" src="img/logo.png" align = "left"></a>
+      </div>
+  </nav>
+
+  &nbsp;
+  &nbsp;
+
+  <div class="col-md-4">
+                        <label>Y Axis:</label>
+                        <select id="var-select" class="form-control">
+                        <option value="1" onclick = "y(0)" >Please select an option</option>
+                        <option value="credit_usage" onclick="y(1)">Credit Usage</option>
+                        <option value="curr_bal" onclick="y(2)">Current Balance</option>
+                        <option value="purposvar" onclick="y(3)">Purpose Variation</option>
+
+                    </select>
+                </div>
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+
+ <div class="col-md-4">
+
+                   <label>X Axis:</label>
+                   <select id="var-select" class="form-control">
+                       <option value="2" onclick="x(0)">Please select an option</option>
+                       <option value="credit_usage" onclick="x(1)">Credit Usage</option>
+                       <option value="credit_status" onclick="x(2)">Credit Status</option>
+                       <option value="gender" onclick="x(3)">Gender</option>
+                       <option value="prop_mag" onclick="x(4)">Property Magnitude</option>
+                       <option value="age" onclick="x(5)">Age</option>
+                       <option value="fraud_stat" onclick="x(6)">Fraud Status</option>
+                   </select>
+               </div>
+
+  <script src="jquery.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <script>
+
+
+function y(yc){
+
+d3.selectAll("svg").remove();
+yaxes = yc;
+if(yaxes==3){
+
+    d3.selectAll("svg").remove();
+
+    dataset = {
+        "children": [{"Name":"New Car","Count":234},
+            {"Name":"Domestic Appliances","Count":12},
+            {"Name":"Used Car","Count":103},
+            {"Name":"Business","Count":97},
+            {"Name":"Education","Count":50},
+            {"Name":"Furniture","Count":181},
+            {"Name":"Radio/TV","Count":280},
+            {"Name":"Repairs","Count":22},
+            {"Name":"Retraining","Count":9}]
+    };
+
+    var diameter = 600;
+    var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+    var bubble = d3.pack(dataset)
+        .size([diameter, diameter])
+        .padding(1.5);
+
+    var svg = d3.select("body")
+        .append("svg")
+        .attr("width", diameter)
+        .attr("height", diameter)
+        .attr("class", "bubble");
+
+    var nodes = d3.hierarchy(dataset)
+        .sum(function(d) { return d.Count; });
+
+    var node = svg.selectAll(".node")
+        .data(bubble(nodes).descendants())
+        .enter()
+        .filter(function(d){
+            return  !d.children
+        })
+        .append("g")
+        .attr("class", "node")
+        .attr("transform", function(d) {
+            return "translate(" + d.x + "," + d.y + ")";
+        });
+
+    node.append("title")
+        .text(function(d) {
+            return d.Name + ": " + d.Count;
+        });
+
+    node.append("circle")
+        .attr("r", function(d) {
+            return d.r;
+        })
+        .style("fill", function(d,i) {
+            return color(i);
+        });
+
+    node.append("text")
+        .attr("dy", ".2em")
+        .style("text-anchor", "middle")
+        .text(function(d) {
+            return d.data.Name.substring(0, d.r / 3);
+        })
+        .attr("font-family", "arial")
+        .attr("font-size", function(d){
+            return d.r/5;
+        })
+        .attr("fill", "white");
+
+    node.append("text")
+        .attr("dy", "1.5em")
+        .style("text-anchor", "middle")
+        .text(function(d) {
+            return d.data.Count;
+        })
+        .attr("font-family",  "Arial", "Arial")
+        .attr("font-size", function(d){
+            return d.r/5;
+        })
+        .attr("fill", "white");
+
+    d3.select(self.frameElement)
+        .style("height", diameter + "px");
+
+  }
+
+}
+
+function x(xc){
+
+
+var margin = {top: 100, right: 20, bottom: 100, left: 80},
+        width = 860 - margin.left - margin.right,
+        height = 500- margin.top - margin.bottom;
+
+
+if(yaxes==0){
+
+  d3.selectAll("svg").remove();
+}
+
+if(xc==0){
+  d3.selectAll("svg").remove();
+}
+
+if(yaxes==1){
+
+if(xc==1){
+
+        d3.selectAll("svg").remove();
+        var x = d3.scaleLinear().range([0, width]);
+        var y = d3.scaleLinear().range([height, 0]);
+
+      // set the ranges
+
+      var valueline = d3.line()
+          .x(function(d) { return x(d.creduse); })
+          .y(function(d) { return y(d.creduse); });
+
+      // append the svg obgect to the body of the page
+      // appends a 'group' element to 'svg'
+      // moves the 'group' element to the top left margin
+      var svg = d3.select("body").append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+          .attr("transform",
+                "translate(" + margin.left + "," + margin.top + ")");
+
+      // Get the data
+      d3.json("FinalData.json", function(error, data) {
+        if (error) throw error;
+
+        // format the data
+        data.forEach(function(d) {
+            d.creduse = +d.creduse
+        });
+
+        // Scale the range of the data
+        x.domain(d3.extent(data, function(d) { return d.creduse; }));
+        y.domain([0, d3.max(data, function(d) { return d.creduse; })]);
+
+        // Add the valueline path.
+        svg.append('g')
+          .selectAll("dot")
+          .data(data)
+          .enter()
+          .append("circle")
+            .attr("cx", function (d) { return x(d.creduse); } )
+            .attr("cy", function (d) { return y(d.creduse); } )
+            .attr("r", 5)
+
+        // Add the X Axis
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x));
+
+        svg.append("text")
+              .attr("transform",
+                     "translate(" + (width/2) + " ," +
+                                    (height+40) + ")")
+               .style("text-anchor", "middle")
+               .text("Credit Usage");
+
+
+        // Add the Y Axis
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        svg.append("text")
+           .attr("transform", "rotate(-90)")
+           .attr("y", 0 - margin.left)
+           .attr("x",0 - (height / 2))
+           .attr("dy", "2em")
+           .style("text-anchor", "middle")
+           .text("Credit Usage");
+
+      });
+
+  }
+
+if(xc==2){
+
+  d3.selectAll("svg").remove();
+
+  var x = d3.scaleBand()
+          .range([0, width])
+          .padding(0.4);
+
+          var y = d3.scaleLinear()
+          .range([height, 0]);
+
+
+  var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+  // get the data
+    d3.json("creddata.json", function(error, data) {
+    if (error) throw error;
+
+    // format the data
+    data.forEach(function(d) {
+      d.avgcreduse = +d.avgcreduse;
+    });
+
+    // Scale the range of the data in the domains
+    x.domain(data.map(function(d) { return d.credstat; }));
+    y.domain([0, d3.max(data, function(d) { return d.avgcreduse; })]);
+
+    // append the rectangles for the bar chart
+    svg.selectAll(".bar")
+        .data(data)
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function(d) { return x(d.credstat); })
+        .attr("width", x.bandwidth())
+        .attr("y", function(d) { return y(d.avgcreduse); })
+        .attr("height", function(d) { return height - y(d.avgcreduse); });
+
+    // add the x Axis
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+
+    svg.append("text")
+              .attr("transform",
+                     "translate(" + (width/2) + " ," +
+                                    (height+40) + ")")
+               .style("text-anchor", "middle")
+               .text("Credit Status");
+    // add the y Axis
+    svg.append("g")
+        .call(d3.axisLeft(y));
+
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        svg.append("text")
+           .attr("transform", "rotate(-90)")
+           .attr("y", 0 - margin.left)
+           .attr("x",0 - (height / 2))
+           .attr("dy", "2em")
+           .style("text-anchor", "middle")
+           .text("Credit Usage");
+
+  });
+
+}
+
+
+if(xc==3){
+
+  d3.selectAll("svg").remove();
+
+  var x = d3.scaleBand()
+          .range([0, width])
+          .padding(0.4);
+
+          var y = d3.scaleLinear()
+          .range([height, 0]);
+
+
+          var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+  // get the data
+    d3.json("genderdata.json", function(error, data) {
+    if (error) throw error;
+
+    // format the data
+    data.forEach(function(d) {
+      d.avgcreduse = +d.avgcreduse;
+    });
+
+    // Scale the range of the data in the domains
+    x.domain(data.map(function(d) { return d.gender; }));
+    y.domain([0, d3.max(data, function(d) { return d.avgcreduse; })]);
+
+    // append the rectangles for the bar chart
+    svg.selectAll(".bar")
+        .data(data)
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function(d) { return x(d.gender); })
+        .attr("width", x.bandwidth())
+        .attr("y", function(d) { return y(d.avgcreduse); })
+        .attr("height", function(d) { return height - y(d.avgcreduse); });
+
+    // add the x Axis
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x));
+
+        svg.append("text")
+              .attr("transform",
+                     "translate(" + (width/2) + " ," +
+                                    (height+40) + ")")
+               .style("text-anchor", "middle")
+               .text("Gender");
+
+
+    // add the y Axis
+    svg.append("g")
+        .call(d3.axisLeft(y));
+
+
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        svg.append("text")
+           .attr("transform", "rotate(-90)")
+           .attr("y", 0 - margin.left)
+           .attr("x",0 - (height / 2))
+           .attr("dy", "2em")
+           .style("text-anchor", "middle")
+           .text("Credit Usage");
+
+  });
+
+}
+
+if(xc==4){
+
+  d3.selectAll("svg").remove();
+
+  var x = d3.scaleBand()
+          .range([0, width])
+          .padding(0.4);
+
+          var y = d3.scaleLinear()
+          .range([height, 0]);
+
+
+          var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+  // get the data
+    d3.json("pmdata.json", function(error, data) {
+    if (error) throw error;
+
+    // format the data
+    data.forEach(function(d) {
+      d.creduse = +d.creduse;
+    });
+
+    // Scale the range of the data in the domains
+    x.domain(data.map(function(d) { return d.propmag; }));
+    y.domain([0, d3.max(data, function(d) { return d.creduse; })]);
+
+    // append the rectangles for the bar chart
+    svg.selectAll(".bar")
+        .data(data)
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function(d) { return x(d.propmag); })
+        .attr("width", x.bandwidth())
+        .attr("y", function(d) { return y(d.creduse); })
+        .attr("height", function(d) { return height - y(d.creduse); });
+
+    // add the x Axis
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x));
+
+        svg.append("text")
+              .attr("transform",
+                     "translate(" + (width/2) + " ," +
+                                    (height+40) + ")")
+               .style("text-anchor", "middle")
+               .text("Property Magnitude");
+
+
+    // add the y Axis
+    svg.append("g")
+        .call(d3.axisLeft(y));
+
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        svg.append("text")
+           .attr("transform", "rotate(-90)")
+           .attr("y", 0 - margin.left)
+           .attr("x",0 - (height / 2))
+           .attr("dy", "2em")
+           .style("text-anchor", "middle")
+           .text("Credit Usage");
+
+  });
+
+}
+
+if(xc==5){
+
+    d3.selectAll("svg").remove();
+
+    var x = d3.scaleLinear().range([0, width]);
+    var y = d3.scaleLinear().range([height, 0]);
+
+
+    var valueline = d3.line()
+    .x(function(d) { return x(d.age); })
+    .y(function(d) { return y(d.creduse); });
+
+    var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+
+  d3.json("FinalData.json", function(error, data) {
+  if (error) throw error;
+
+  // format the data
+  data.forEach(function(d) {
+      d.creduse = +d.creduse
+  });
+
+  // Scale the range of the data
+  x.domain(d3.extent(data, function(d) { return d.age; }));
+  y.domain([0, d3.max(data, function(d) { return d.creduse; })]);
+
+  // Add the valueline path.
+  svg.append('g')
+    .selectAll("dot")
+    .data(data)
+    .enter()
+    .append("circle")
+      .attr("cx", function (d) { return x(d.age); } )
+      .attr("cy", function (d) { return y(d.creduse); } )
+      .attr("r", 5)
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+      svg.append("text")
+            .attr("transform",
+                   "translate(" + (width/2) + " ," +
+                                  (height+40) + ")")
+             .style("text-anchor", "middle")
+             .text("Age");
+
+
+
+  // Add the Y Axis
+    svg.append("g")
+      .call(d3.axisLeft(y));
+
+      svg.append("text")
+         .attr("transform", "rotate(-90)")
+         .attr("y", 0 - margin.left)
+         .attr("x",0 - (height / 2))
+         .attr("dy", "2em")
+         .style("text-anchor", "middle")
+         .text("Credit Usage");
+
+
+});
+
+}
+
+if(xc==6){
+
+
+    d3.selectAll("svg").remove();
+
+    var x = d3.scaleBand()
+            .range([0, width])
+            .padding(0.4);
+
+            var y = d3.scaleLinear()
+            .range([height, 0]);
+
+
+            var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+
+    // get the data
+      d3.csv("frauddata.csv", function(error, data) {
+      if (error) throw error;
+
+      // format the data
+      data.forEach(function(d) {
+        d.avgcreduse = +d.avgcreduse;
+      });
+
+      // Scale the range of the data in the domains
+      x.domain(data.map(function(d) { return d.fraud; }));
+      y.domain([0, d3.max(data, function(d) { return d.avgcreduse; })]);
+
+      // append the rectangles for the bar chart
+      svg.selectAll(".bar")
+          .data(data)
+        .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function(d) { return x(d.fraud); })
+          .attr("width", x.bandwidth())
+          .attr("y", function(d) { return y(d.avgcreduse); })
+          .attr("height", function(d) { return height - y(d.avgcreduse); });
+
+      // add the x Axis
+      svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+          svg.append("text")
+                .attr("transform",
+                       "translate(" + (width/2) + " ," +
+                                      (height+40) + ")")
+                 .style("text-anchor", "middle")
+                 .text("Fraud Status");
+
+      // add the y Axis
+      svg.append("g")
+          .call(d3.axisLeft(y));
+
+          svg.append("text")
+             .attr("transform", "rotate(-90)")
+             .attr("y", 0 - margin.left)
+             .attr("x",0 - (height / 2))
+             .attr("dy", "2em")
+             .style("text-anchor", "middle")
+             .text("Credit Usage");
+
+    });
+
+}
+
+}
+
+if(yaxes==2){
+
+
+  if(xc==1){
+
+          d3.selectAll("svg").remove();
+          var x = d3.scaleLinear().range([0, width]);
+          var y = d3.scaleLinear().range([height, 0]);
+
+        // set the ranges
+
+        var valueline = d3.line()
+            .x(function(d) { return x(d.creduse); })
+            .y(function(d) { return y(d.currbal); });
+
+        // append the svg obgect to the body of the page
+        // appends a 'group' element to 'svg'
+        // moves the 'group' element to the top left margin
+        var svg = d3.select("body").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform",
+                  "translate(" + margin.left + "," + margin.top + ")");
+
+        // Get the data
+        d3.json("FinalData.json", function(error, data) {
+          if (error) throw error;
+
+          // format the data
+          data.forEach(function(d) {
+              d.creduse = +d.creduse
+              d.currbal = +d.currbal
+          });
+
+          // Scale the range of the data
+          x.domain(d3.extent(data, function(d) { return d.creduse; }));
+          y.domain([0, d3.max(data, function(d) { return d.currbal; })]);
+
+          // Add the valueline path.
+          svg.append('g')
+            .selectAll("dot")
+            .data(data)
+            .enter()
+            .append("circle")
+              .attr("cx", function (d) { return x(d.creduse); } )
+              .attr("cy", function (d) { return y(d.currbal); } )
+              .attr("r", 5)
+
+          // Add the X Axis
+          svg.append("g")
+              .attr("transform", "translate(0," + height + ")")
+              .call(d3.axisBottom(x));
+
+              svg.append("text")
+                    .attr("transform",
+                           "translate(" + (width/2) + " ," +
+                                          (height+40) + ")")
+                     .style("text-anchor", "middle")
+                     .text("Credit Usage");
+
+          // Add the Y Axis
+          svg.append("g")
+              .call(d3.axisLeft(y));
+
+              svg.append("text")
+                 .attr("transform", "rotate(-90)")
+                 .attr("y", 0 - margin.left)
+                 .attr("x",0 - (height / 2))
+                 .attr("dy", "2em")
+                 .style("text-anchor", "middle")
+                 .text("Current Balance");
+
+        });
+
+    }
+
+  if(xc==2){
+
+    d3.selectAll("svg").remove();
+
+    var x = d3.scaleBand()
+            .range([0, width])
+            .padding(0.4);
+
+            var y = d3.scaleLinear()
+            .range([height, 0]);
+
+
+            var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+
+    // get the data
+      d3.json("creddata.json", function(error, data) {
+      if (error) throw error;
+
+      // format the data
+      data.forEach(function(d) {
+        d.avgcreduse = +d.avgcreduse;
+        d.avgcurrbal = +d.avgcurrbal;
+      });
+
+      // Scale the range of the data in the domains
+      x.domain(data.map(function(d) { return d.credstat; }));
+      y.domain([0, d3.max(data, function(d) { return d.avgcurrbal; })]);
+
+      // append the rectangles for the bar chart
+      svg.selectAll(".bar")
+          .data(data)
+        .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function(d) { return x(d.credstat); })
+          .attr("width", x.bandwidth())
+          .attr("y", function(d) { return y(d.avgcurrbal); })
+          .attr("height", function(d) { return height - y(d.avgcurrbal); });
+
+      // add the x Axis
+      svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+          svg.append("text")
+                .attr("transform",
+                       "translate(" + (width/2) + " ," +
+                                      (height+40) + ")")
+                 .style("text-anchor", "middle")
+                 .text("Credit Status");
+
+
+
+      // add the y Axis
+      svg.append("g")
+          .call(d3.axisLeft(y));
+
+          svg.append("text")
+             .attr("transform", "rotate(-90)")
+             .attr("y", 0 - margin.left)
+             .attr("x",0 - (height / 2))
+             .attr("dy", "2em")
+             .style("text-anchor", "middle")
+             .text("Current Balance");
+
+    });
+
+  }
+
+  if(xc==3){
+
+    d3.selectAll("svg").remove();
+
+    var x = d3.scaleBand()
+            .range([0, width])
+            .padding(0.4);
+
+            var y = d3.scaleLinear()
+            .range([height, 0]);
+
+
+            var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+    // get the data
+      d3.json("genderdata.json", function(error, data) {
+      if (error) throw error;
+
+      // format the data
+      data.forEach(function(d) {
+        d.avgcreduse = +d.avgcreduse;
+        d.avgcurrbal = +d.avgcurrbal;
+      });
+
+      // Scale the range of the data in the domains
+      x.domain(data.map(function(d) { return d.gender; }));
+      y.domain([0, d3.max(data, function(d) { return d.avgcurrbal; })]);
+
+      // append the rectangles for the bar chart
+      svg.selectAll(".bar")
+          .data(data)
+        .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function(d) { return x(d.gender); })
+          .attr("width", x.bandwidth())
+          .attr("y", function(d) { return y(d.avgcurrbal); })
+          .attr("height", function(d) { return height - y(d.avgcurrbal); });
+
+      // add the x Axis
+      svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+          svg.append("text")
+                .attr("transform",
+                       "translate(" + (width/2) + " ," +
+                                      (height+40) + ")")
+                 .style("text-anchor", "middle")
+                 .text("Gender");
+
+      // add the y Axis
+      svg.append("g")
+          .call(d3.axisLeft(y));
+
+          svg.append("text")
+             .attr("transform", "rotate(-90)")
+             .attr("y", 0 - margin.left)
+             .attr("x",0 - (height / 2))
+             .attr("dy", "2em")
+             .style("text-anchor", "middle")
+             .text("Current Balance");
+
+    });
+
+  }
+
+  if(xc==4){
+
+    d3.selectAll("svg").remove();
+
+    var x = d3.scaleBand()
+            .range([0, width])
+            .padding(0.4);
+
+            var y = d3.scaleLinear()
+            .range([height, 0]);
+
+
+            var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+
+    // get the data
+      d3.json("pmdata.json", function(error, data) {
+      if (error) throw error;
+
+      // format the data
+      data.forEach(function(d) {
+        d.currbal = +d.currbal;
+
+      });
+
+      // Scale the range of the data in the domains
+      x.domain(data.map(function(d) { return d.propmag; }));
+      y.domain([0, d3.max(data, function(d) { return d.currbal; })]);
+
+      // append the rectangles for the bar chart
+      svg.selectAll(".bar")
+          .data(data)
+        .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function(d) { return x(d.propmag); })
+          .attr("width", x.bandwidth())
+          .attr("y", function(d) { return y(d.currbal); })
+          .attr("height", function(d) { return height - y(d.currbal); });
+
+      // add the x Axis
+      svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+          svg.append("text")
+                .attr("transform",
+                       "translate(" + (width/2) + " ," +
+                                      (height+40) + ")")
+                 .style("text-anchor", "middle")
+                 .text("Property Magnitude");
+
+      // add the y Axis
+      svg.append("g")
+          .call(d3.axisLeft(y));
+
+          svg.append("text")
+             .attr("transform", "rotate(-90)")
+             .attr("y", 0 - margin.left)
+             .attr("x",0 - (height / 2))
+             .attr("dy", "2em")
+             .style("text-anchor", "middle")
+             .text("Current Balance");
+
+    });
+
+  }
+
+  if(xc==5){
+
+      d3.selectAll("svg").remove();
+
+      var x = d3.scaleLinear().range([0, width]);
+      var y = d3.scaleLinear().range([height, 0]);
+
+
+      var valueline = d3.line()
+      .x(function(d) { return x(d.age); })
+      .y(function(d) { return y(d.currbal); });
+
+      var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+    d3.json("FinalData.json", function(error, data) {
+    if (error) throw error;
+
+    // format the data
+    data.forEach(function(d) {
+        d.currbal = +d.currbal
+    });
+
+    // Scale the range of the data
+    x.domain(d3.extent(data, function(d) { return d.age; }));
+    y.domain([0, d3.max(data, function(d) { return d.currbal; })]);
+
+    // Add the valueline path.
+    svg.append('g')
+      .selectAll("dot")
+      .data(data)
+      .enter()
+      .append("circle")
+        .attr("cx", function (d) { return x(d.age); } )
+        .attr("cy", function (d) { return y(d.currbal); } )
+        .attr("r", 5)
+
+    // Add the X Axis
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+        svg.append("text")
+              .attr("transform",
+                     "translate(" + (width/2) + " ," +
+                                    (height+40) + ")")
+               .style("text-anchor", "middle")
+               .text("Age");
+
+
+    // Add the Y Axis
+      svg.append("g")
+        .call(d3.axisLeft(y));
+
+        svg.append("text")
+       .attr("transform", "rotate(-90)")
+       .attr("y", 0 - margin.left)
+       .attr("x",0 - (height / 2))
+       .attr("dy", "1em")
+       .style("text-anchor", "middle")
+       .text("Current Balance");
+
+  });
+
+  }
+
+  if(xc==6){
+
+      d3.selectAll("svg").remove();
+
+      var x = d3.scaleBand()
+              .range([0, width])
+              .padding(0.4);
+
+              var y = d3.scaleLinear()
+              .range([height, 0]);
+
+
+              var svg = d3.select("body").append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+          .attr("transform",
+                "translate(" + margin.left + "," + margin.top + ")");
+
+
+      // get the data
+        d3.csv("frauddata.csv", function(error, data) {
+        if (error) throw error;
+
+        // format the data
+        data.forEach(function(d) {
+          d.avgcurrbal = +d.avgcurrbal;
+        });
+
+        // Scale the range of the data in the domains
+        x.domain(data.map(function(d) { return d.fraud; }));
+        y.domain([0, d3.max(data, function(d) { return d.avgcurrbal; })]);
+
+        // append the rectangles for the bar chart
+        svg.selectAll(".bar")
+            .data(data)
+          .enter().append("rect")
+            .attr("class", "bar")
+            .attr("x", function(d) { return x(d.fraud); })
+            .attr("width", x.bandwidth())
+            .attr("y", function(d) { return y(d.avgcurrbal); })
+            .attr("height", function(d) { return height - y(d.avgcurrbal); });
+
+        // add the x Axis
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x));
+
+            svg.append("text")
+                  .attr("transform",
+                         "translate(" + (width/2) + " ," +
+                                        (height+40) + ")")
+                   .style("text-anchor", "middle")
+                   .text("Fraud Status");
+
+        // add the y Axis
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+
+                       svg.append("text")
+                          .attr("transform", "rotate(-90)")
+                          .attr("y", 0 - margin.left)
+                          .attr("x",0 - (height / 2))
+                          .attr("dy", "2em")
+                          .style("text-anchor", "middle")
+                          .text("Current Balance");
+
+      });
+
+  }
+  }
+  }
+
+</script>
+</body>

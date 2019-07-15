@@ -1,0 +1,17 @@
+[
+  {
+    "credstat": "Critical",
+    "avgcreduse": 19.488,
+    "avgcurrbal": 3088.03
+  },
+  {
+    "credstat": "Delayed",
+    "avgcreduse": 26.215,
+    "avgcurrbal": 4302.6
+  },
+  {
+    "credstat": "Paid",
+    "avgcreduse": 20.111,
+    "avgcurrbal": 3040.958
+  }
+]
